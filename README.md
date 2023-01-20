@@ -1,8 +1,5 @@
 # Module_11_Challenge
----
-## This new assignment consists of two technical products. You will submit the following deliverables:
-### Deliverable 1: Scrape titles and preview text from Mars news articles.
-### Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+## This new assignment consists of two technical products. 
 ---
 ### Part 1: Scrape Titles and Preview Text from Mars News
 1. Use automated browsing to visit the Mars news site Links to an external site. Inspect the page to identify which elements to scrape.
@@ -10,7 +7,7 @@
 3. Extract the titles and preview text of the news articles scraped. 
 ---
 ### Part 2: Scrape and Analyze Mars Weather Data
-1. Use automated browsing to visit the Mars Temperature Data Site Links to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
+1. Use automated browsing to visit the Mars Temperature Data Site Links to an external site. The URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 2. Create a Beautiful Soup object and use it to scrape the data in the HTML table. 
 3. Assemble the scraped data into a Pandas DataFrame. 
 4. Examine the data types that are currently associated with each column. 
